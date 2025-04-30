@@ -16,15 +16,15 @@ Custom Data Structures (Binary Search Tree)
 File I/O
 Performance Optimization
 
-📂 Project Structure
-graphql
-Copy
-Edit
-├── autocomplete.h      # Autocomplete class definition
-├── bstmap.h            # Custom BST map class (STL-like interface)
-├── main.cpp            # Example usage / demo CLI
-├── cities.txt          # Sample input file with term/weight data
-├── README.md
+## 📂 Project Structure
+<p>graphql</p>
+<p>Copy</p>
+<p>Edit</p>
+<p>├── autocomplete.h      # Autocomplete class definition</p>
+<p>├── bstmap.h            # Custom BST map class (STL-like interface)</p>
+<p>├── main.cpp            # Example usage / demo CLI</p>
+<p>├── cities.txt          # Sample input file with term/weight data</p>
+<p>├── README.md</p>
 
 ## 📄 Sample Usage
 bash
